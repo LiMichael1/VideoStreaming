@@ -1,5 +1,5 @@
 # VideoStreaming
-Members:
+Members:  
+Dave Patsy  
 Michael Li
-Dave Patsy
 
